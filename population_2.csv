@@ -1,0 +1,21 @@
+Product,RevenueRank,WinLoss,Count
+Digital Media Services,1,Win,38411
+Digital Media Services,1,Loss,17226
+Managed Network,2,Win,47379
+Managed Network,2,Loss,15949
+Professional Services,3,Win,42323
+Professional Services,3,Loss,15442
+Security Cloud and IT Services,4,Win,37592
+Security Cloud and IT Services,4,Loss,13664
+Strategic CPE,5,Win,36840
+Strategic CPE,5,Loss,15492
+Strategic FiOS Services,6,Win,45999
+Strategic FiOS Services,6,Loss,16857
+Strategic Networking,7,Win,37982
+Strategic Networking,7,Loss,12888
+Wireless,8,Win,52076
+Wireless,8,Loss,17972
+Core CPE,9,Win,32914
+Core CPE,9,Loss,18268
+Core Voice Services,10,Win,38444
+Core Voice Services,10,Loss,14071

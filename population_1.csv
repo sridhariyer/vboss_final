@@ -1,0 +1,29 @@
+Product,Revenue Rank,Catg,Instances
+Professional Services,1,Win,1581
+Professional Services,1,Loss,1059
+Strategic Networking,2,Win,1274
+Strategic Networking,2,Loss,198
+Managed Network,3,Win,18882
+Managed Network,3,Loss,21082
+Wireless,4,Win,17130
+Wireless,4,Loss,805
+Security Cloud and IT Services,5,Win,232
+Security Cloud and IT Services,5,Loss,694
+Core Voice Services,6,Win,13758
+Core Voice Services,6,Loss,489
+Strategic Communications,7,Win,222
+Strategic Communications,7,Loss,209
+Core Data Networking,8,Win,1202
+Core Data Networking,8,Loss,1048
+Strategic CPE,9,Win,17069
+Strategic CPE,9,Loss,12000
+Core CPE,10,Win,15786
+Core CPE,10,Loss,929
+Digital Media Services,11,Win,15196
+Digital Media Services,11,Loss,5675
+Strategic FiOS Services,12,Win,12272
+Strategic FiOS Services,12,Loss,1002
+Other & Miscellaneous,13,Win,506
+Other & Miscellaneous,13,Loss,106
+Security and IT Solutions,14,Win,19450
+Security and IT Solutions,14,Loss,58
